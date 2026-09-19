@@ -1,6 +1,6 @@
 ## Hey there!, I'm Nireeksha👋
 
-I'm Nireeksha, a 3rd-year Artificial Intelligence & Machine Learning engineering student who loves turning ideas into things that actually work.
+A 3rd-year Artificial Intelligence & Machine Learning engineering student who loves turning ideas into things that actually work.
 
 I'm a build-to-learn kind of person — I like experimenting with AI, web development, automation, UI/UX, and anything else that catches my curiosity. I enjoy reading, exploring new technologies, and going down random rabbit holes until I understand how something works.
 
