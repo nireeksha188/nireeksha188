@@ -12,8 +12,11 @@ I'm currently exploring AI/ML, full-stack development, DSA, and building real-wo
 Some things I've been working on include:
 
 🤖 AI/ML and NLP-based applications
+
 🌐 Full-stack web applications
+
 🛰️ AI/remote-sensing based projects
+
 💡 Hackathon projects and experimental ideas
 
 ## 💻 Tech Stack
@@ -48,5 +51,7 @@ Some things I've been working on include:
 I'm always open to interesting projects, collaborations, hackathons, learning opportunities, and conversations about technology.
 
 💼 LinkedIn: linkedin.com/in/nireeksha19
+
 📧 Email: nireekshashaiva19@gmail.com
+
 🐙 GitHub: You're already here :)
