@@ -1,4 +1,4 @@
-## Heyy!👋
+## Hey there!, I'm Nireeksha👋
 
 I'm Nireeksha, a 3rd-year Artificial Intelligence & Machine Learning engineering student who loves turning ideas into things that actually work.
 
